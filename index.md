@@ -20,6 +20,9 @@ def sample(func, n, T):
 
 The output plots for this example would be as ...
 
+### Reading a wave file
+
+Some explanations ...
 
 ### Inner product and orthogonality
 
