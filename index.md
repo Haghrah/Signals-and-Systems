@@ -1,6 +1,6 @@
 ## Signals and Systems with Python and Octave
 
-In this page, I will present some examples concerning the signals and systems course. The examples are in Python and Octave languages. Also, there will be a little description about each example.
+On this page, I will provide some examples concerning the signals and systems course. These examples are in Python and Octave languages. Also, there will be some descriptions for each of them.
 
 ### Sampling
 
@@ -13,7 +13,7 @@ from numpy import (sin, )
 def signal(t):
     return sin(t)
 
-def sample(funct, t0, N, T):
+def sample(func, n, T):
     return 
 
 ```
@@ -25,10 +25,14 @@ The output plots for this example would be as ...
 
 Some explanations ...
 
+### Euler's number
+
+Some explanations ...
+
 ### Fourier series
 
 Some explanations ...
 
-### Support or Contact
+### Contact
 
 If there are errors in the codes or some bugs, please contact me!
